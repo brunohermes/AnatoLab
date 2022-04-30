@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: bed4d1aa6dfeca9408ea4c60dc6c7f08
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Ausion Personal Use
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f5677d5b3602130439293629e8cecf1d, type: 3}
+  - {fileID: 12800000, guid: ed3338dbb8293dd448579cd3079bcbac, type: 3}
+  - {fileID: 12800000, guid: ae1cd781d9ba99142842bb8da17324f0, type: 3}
+  - {fileID: 12800000, guid: 86fc134abbcacc2458241db0a06165fa, type: 3}
+  - {fileID: 12800000, guid: f72825a29946ee545a57f6a1084b1dee, type: 3}
+  - {fileID: 12800000, guid: 1f91475e104d3804d8186d1f1b643489, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
