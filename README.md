@@ -1,9 +1,12 @@
-:skull: AnatoLab - Open-source Human Skeletal System (Brazilian Portuguese).
+# :skull: AnatoLab - Open-source Human Skeletal System (Brazilian Portuguese).
 
 ## :iphone: Overview
 
 Ready to implement open-source unity application that displays a human skeletal system for anatomy students.
 Made in Unity (Free Version), compiled to Android and WebGL.
+
+The user can have a fully interactive human skeleton, with name tags, bone structure, and detailed view of human bones in general.
+
 
 ## :clipboard: Importing Project for further modifications.
 
