@@ -1,5 +1,5 @@
 # :skull: AnatoLab
-Anatolab Human Skeletal System (Brazilian Portuguese).
+Anatolab - Open-source Human Skeletal System (Brazilian Portuguese).
 
 ## :iphone: Overview
 
