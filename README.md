@@ -20,5 +20,5 @@ The main platform is Android, but this application can also be deployed on WebGL
 
 Ready to use proof of concept applications:
 
- :iphone: [Android APK file](https://github.com/brunohermes/AnatoLab/blob/main/AnatoLab_ANDROID.apk) To install the APK Android Package.
-:desktop_computer:[WebGL](https://github.com/brunohermes/AnatoLab/tree/main/WebGL) Folder of contents that you need to clone to your webserver in order to run the application on a Web Browser such as Chrome or Firefox.
+ :iphone: [Android APK file](https://github.com/brunohermes/AnatoLab/blob/main/AnatoLab_ANDROID.apk) To install the APK Android Package. </br>
+:desktop_computer:[WebGL](https://github.com/brunohermes/AnatoLab/tree/main/WebGL) Folder of contents that you need to clone to your webserver in order to run the application on a Web Browser such as Chrome or Firefox.</br>
