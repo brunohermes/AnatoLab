@@ -10,8 +10,8 @@ Made in Unity (Free Version), compiled to Android and WebGL.
 
 Steps to implement this open-source solution:
 
-Step 1: Downloading and installing [Unity Engine](https://unity.com/).
-Step 2: Importing the project by cloning the repository into Unity Projects folder, or simply downloading the UnityPackage.
-Step 3: Modifying the contents of this package.
+Step 1: Downloading and installing [Unity Engine](https://unity.com/). </br>
+Step 2: Importing the project by cloning the repository into Unity Projects folder, or simply downloading the UnityPackage.</br
+Step 3: Modifying the contents of this package. </br
 
 ## 
